@@ -1,6 +1,6 @@
 # Excel
 
-**Excel Basics:**
+**Basic Skills:**
    - **Cell Referencing:** Understand the concept of cell referencing (relative, absolute, and mixed) to efficiently navigate and manipulate data in Excel.
    - **Basic Formulas:** Learn fundamental formulas such as SUM, AVERAGE, COUNT, and basic arithmetic operations for simple data calculations.
    - **Data Formatting:** Explore formatting options for cells, including number formats, fonts, colors, and borders to enhance the presentation of data.
